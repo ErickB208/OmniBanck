@@ -1,6 +1,6 @@
 # Actividad 1, Levantamientos de requisitos OmniBank
 
-## Clave Act. Día 01. Reference Solution
+## Corrección
 
 ### 1. Lista de Entidades:
 
@@ -16,4 +16,8 @@
 
 ### 3. Restricción de unicidad:
 
-- El sistema no debe permitir que dos clientes tengan el mismo Tax ID o número de identificación fiscal (Debe ser `UNIQUE`).
+- El sistema no debe permitir que dos clientes tengan el mismo Tax ID o número de identificación fiscal (Debe ser UNIQUE).
+
+## Lo que aprendí:
+
+Aprendí como estructurar la base de datos de un sistema bancario.
